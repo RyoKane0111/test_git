@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 wan bow wanbow boooooooo boooooooo
+=======
+wan bow wanbow paooooooon
+>>>>>>> sub_mas
